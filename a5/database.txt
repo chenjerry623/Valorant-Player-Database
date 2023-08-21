@@ -1,0 +1,31 @@
+leaf,C9,chamber,267
+cryocells,XSET,jett,252
+penny,V1,jett,241
+sayaplayer,TGRD,jett,238
+trent,TGRD,sova,231
+tenz,SEN,jett,226
+victor,OPTC,raze,226
+zander,V1,astra,223
+xeta,C9,breach,180
+effys,V1,sova,181
+ethan,100T,skye,187
+shanks,RISE,jett,179
+zombs,SEN,viper,173
+hazed,NRG,astra,164
+s0m,NRG,jett,221
+wippie,V1,killjoy,213
+jerry chen,I LOVE CODING,breach,1000
+adam\\,\\wu,I LOVE CODING,phoenix,1000
+mitch,C9,killjoy,206
+marved,OPTC,astra,210,
+derrek,RISE,sova,199
+yaboidre,EG,chamber,198
+net,TGRD,killjoy,193
+crashies,OPTC,sova,192
+dephh,XSET,astra,191
+dapr,SEN,chamber,181
+poised,RISE,astra,180
+zekken,XSET,raze,220
+zellsis,V1,sage,213
+xeppaa,C9,raze,223
+asuna,100T,raze,223
